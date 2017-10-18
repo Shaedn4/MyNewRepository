@@ -2,6 +2,7 @@
 <h1>Shopping list</h1>
 <ul>
 	<li>bread</li>
+	<li>flour</li>
 	<li>milk</li>
 	<li>butter</li>
 </ul>
